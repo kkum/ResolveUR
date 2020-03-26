@@ -12,6 +12,7 @@
         public const string Msbuildx8640 = @"%WINDIR%\Microsoft.Net\Framework\v4.0.30319\MSBuild.exe";
         public const string Msbuildx86V12 = @"%PROGRAMFILES%\MSBuild\12.0\bin\MSBuild.exe";
         public const string Msbuildx86V14 = @"%PROGRAMFILES%\MSBuild\14.0\bin\MSBuild.exe";
+        public const string Msbuildx86V16 = @"%PROGRAMFILES(X86)%\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\MSBuild.exe ";
         public const string Msbuildx86VS = @"%VSAPPIDDIR%\..\..\MSBuild\%VisualStudioVersion%\bin\msbuild.exe";
         public const string Msbuildx86VSCmd = @"%VSINSTALLDIR%\MSBuild\%VisualStudioVersion%\bin\msbuild.exe";
 
@@ -20,6 +21,7 @@
         public const string Msbuildx6440 = @"%WINDIR%\Microsoft.Net\Framework64\v4.0.30319\MSBuild.exe";
         public const string Msbuildx64V12 = @"%PROGRAMFILES(X86)%\MSBuild\12.0\bin\MSBuild.exe";
         public const string Msbuildx64V14 = @"%PROGRAMFILES(X86)%\MSBuild\14.0\bin\MSBuild.exe";
+        public const string Msbuildx64V16 = @"%PROGRAMFILES(X86)%\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\MSBuild.exe ";
         public const string Msbuildx64VS = @"%VSAPPIDDIR%\..\..\MSBuild\%VisualStudioVersion%\bin\amd64\msbuild.exe";
         public const string Msbuildx64VSCmd = @"%VSINSTALLDIR%\MSBuild\%VisualStudioVersion%\bin\amd64\msbuild.exe";
     }

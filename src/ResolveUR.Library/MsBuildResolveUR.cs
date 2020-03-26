@@ -43,6 +43,7 @@
                 {
                     Constants.Msbuildx86VSCmd,
                     Constants.Msbuildx86VS,
+                    Constants.Msbuildx86V16,
                     Constants.Msbuildx86V14,
                     Constants.Msbuildx86V12,
                     Constants.Msbuildx8640,
@@ -58,6 +59,7 @@
                 {
                     Constants.Msbuildx64VSCmd,
                     Constants.Msbuildx64VS,
+                    Constants.Msbuildx64V16,
                     Constants.Msbuildx64V14,
                     Constants.Msbuildx64V12,
                     Constants.Msbuildx6440,
